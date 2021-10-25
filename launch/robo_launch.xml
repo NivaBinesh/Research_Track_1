@@ -1,0 +1,10 @@
+<launch>
+
+	<node name="robo_Goal" pkg="rt1_asg1" type="robo_server.py" output="screen"/>
+	<node name="My_world" pkg="stage_ros" type="stageros" args="$(find rt1_asg1)/world/exercise.world"/>	
+	<node name="robo_Controll" pkg="rt1_asg1" type="robo_client.py" output="screen"/>
+
+</launch>
+
+
+
