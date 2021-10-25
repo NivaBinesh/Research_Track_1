@@ -86,9 +86,12 @@ DESCRIBING THE COMPLETE PACKAGE:
 -package.xml:
            The control file of our assignment that determines the set of metadata components, to retrieve or deploy in a project.   
            
-           
-         And a rqt graph is attached below to check out the layout of the output of this assignment i.e, the complete relational graph of our system. With this graph we can analyse the ros graph of our application. The communication between the nodes and topics  are also plotted in it.
-           
+           ![hi](https://user-images.githubusercontent.com/84770506/138780948-1b10ba5c-440a-4557-a291-d775162ce58d.gif)
+
+
+         An rqt graph is attached below to check out the layout of the output of this assignment i.e, the complete relational graph of our system. With this graph we can analyse the ros graph of our application. The communication between the nodes and topics  are also plotted in it.
+          
+          ![rosgraphRT1_ASG1](https://user-images.githubusercontent.com/84770506/138781058-15e6804c-133c-427b-a25c-6c5a919b33c9.png)        
  
                
           
