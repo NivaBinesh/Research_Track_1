@@ -10,7 +10,7 @@ ASSIGNMENT DESCRIPTION:
           This assignment mainly focus on controlling a holonomic robot in a 2D space. It should move continuously making an infinite loop within the boundary set by a given set of coordinates.
           
 CODE EXECUTION AND DEPENDENCIES:
-          Initially the assignment (GIT LINK) should be git cloned inside the /src folder of your ros workspace. This assignment script is written in python. Before running the code, the following two nodes should be made executable.
+          Initially the assignment (https://github.com/NivaBinesh/Research_Track_1.git) should be git cloned inside the /src folder of your ros workspace. This assignment script is written in python. Before running the code, the following two nodes should be made executable.
           
                   $ chmod +x robo_server.py
                   $ chmod +x robo_client.py
